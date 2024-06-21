@@ -162,4 +162,4 @@ cython_debug/
 #.idea/
 
 # all voice data
-*.wav
+dataset/*.wav
