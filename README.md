@@ -1,4 +1,4 @@
-# Voice Classification
+# Simple Voice Classification
 Voice Classification for the Attendence Check task.
 
 I have 10 voices and I classify each person with several Machine Learning Models(GMM, SVM). Each audio files convert to MFCC forms. And models learn with this data.
